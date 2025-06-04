@@ -7,7 +7,7 @@ Ideal for e-commerce brands looking to boost sales with better product pages.
 
 ## How to Use This Repo
 
-- View before/after product descriptions  
+- View side-by-side original and rewritten product descriptions in each file  
 - See improvements in SEO, clarity, and formatting  
 - Contact me for custom copywriting projects
 
@@ -22,6 +22,6 @@ I help small e-commerce shops improve their product descriptions using AI and SE
 ## Contact
 
 Feel free to reach out if you'd like custom copywriting help!  
-[Your Email or Website Here]
+hutchisonandy86@gmail.com
 
 
