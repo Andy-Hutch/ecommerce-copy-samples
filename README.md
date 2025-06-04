@@ -1,27 +1,34 @@
 # E-Commerce Copywriting Samples
 
-These are SEO-optimized product description rewrites demonstrating my copy + tech skills.  
-Ideal for e-commerce brands looking to boost sales with better product pages.
+These are SEO-optimized product description rewrites demonstrating my copy + tech skills — ideal for e-commerce brands looking to boost sales with better product pages.
 
 ---
 
-## How to Use This Repo
+## 🔗 Live Portfolio Site
 
-- View side-by-side original and rewritten product descriptions in each file  
-- See improvements in SEO, clarity, and formatting  
-- Contact me for custom copywriting projects
+👉 [View the live portfolio site](https://andy-hutch.github.io/ecommerce-copy-samples/)
+
+---
+
+## What's Inside
+
+- Original vs rewritten product descriptions  
+- SEO, formatting, and clarity improvements  
+- Markdown files for easy reference  
+- Live HTML site via GitHub Pages
 
 ---
 
 ## About Me
 
-I help small e-commerce shops improve their product descriptions using AI and SEO best practices to increase sales and Google rankings.
+I'm Andy — an e-commerce copywriter blending AI, SEO, and technical know-how to help DTC brands write product pages that actually convert.
 
 ---
 
 ## Contact
 
-Feel free to reach out if you'd like custom copywriting help!  
-hutchisonandy86@gmail.com
+Want custom copy that sells?  
+📩 your.email@example.com
+
 
 
